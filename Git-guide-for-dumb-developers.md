@@ -54,6 +54,7 @@ Here things are a bit different, in fact the repository in structured in 3 level
 3. Local repository
 
 Working directory is the place where you are actually working and modifing files; staging area is a middle ground, where you can save changes in order to commit them on the repository; lastly, the local repository is the actual repository there you will need to write your definitive changes.
+<br>
 ![no-img-found](img/local-repo-staging-wd.png)
 
 ### **1.2 .gitignore**
